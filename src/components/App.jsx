@@ -6,6 +6,7 @@ import Slide from "./Slide";
 import BackToTopBtn from "./BackToTopBtn";
 import Couple from "./Couple";
 import InvitationQuote from "./InvitationQuote";
+import BabiesQuote from "./BabiesQuote";
 import Timeline from "./Timeline";
 import CountDown from "./CountDown";
 import Compliments from "./Compliments";
@@ -52,6 +53,7 @@ function App() {
             <Slide />
             <Couple />
             <InvitationQuote />
+            <BabiesQuote />
             <Timeline />
             <CountDown />
             <Compliments />
